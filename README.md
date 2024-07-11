@@ -15,7 +15,7 @@ In the project directory, you can run:
 
 ## 🔨 Tools
 - **Python**
-- - **Jupyter**
+- **Jupyter**
 - **IA**
 
 ## ⌨️ Web
