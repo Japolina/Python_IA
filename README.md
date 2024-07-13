@@ -8,7 +8,7 @@ Inteligência Artificial e Previsões  📚
 ## Available Scripts
 
 In the project directory, you can run:
-- **Install npm packages**
+- **Install packages**
 ```bash
   pip install pandas numpy scikit-learn
 ```
